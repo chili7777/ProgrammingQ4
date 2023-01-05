@@ -22,4 +22,5 @@
 ```
 ⌘ + ⌥ + l (format code)
 ⌘ + k (commit code)
+⌘ + 1 (side menu)
 ```
