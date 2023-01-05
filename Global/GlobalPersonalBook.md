@@ -5,6 +5,13 @@
 - AWS
 - Stencil (Web Components)
 - Storybook
+- Solidity
+- Terraform
+- Turborepo
+- Kubernites
+- TRPC
+- Cloudflare Workers
+- Shopify
 
 ## Seconday Technologies
 
